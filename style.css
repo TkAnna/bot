@@ -1,0 +1,11 @@
+#chat{
+    width: 400px;
+    height: 500px;
+    margin: 50px auto 0;
+    border: 1px solid grey;
+}
+.message-area{
+    padding-top: 20px;
+    width: 400px;
+    margin: 0 auto;
+}
